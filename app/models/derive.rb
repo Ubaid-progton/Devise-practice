@@ -1,0 +1,2 @@
+class Derive < ApplicationRecord
+end
